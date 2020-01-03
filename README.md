@@ -1,2 +1,2 @@
 # davidkarl
-hi, i am beginning my journey coding
+hi, i just love wedb development
