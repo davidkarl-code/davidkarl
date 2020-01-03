@@ -1,2 +1,2 @@
 # davidkarl
-hi, i just love wedb development
+hi, i just love web development
